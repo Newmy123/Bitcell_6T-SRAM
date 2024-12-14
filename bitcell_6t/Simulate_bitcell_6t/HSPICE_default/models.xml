@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Fri Aug 11 19:50:15 2023-->
+<file-format name="stateCategory" version="1.0">
+ <object type="saModelSetup" name="models" version="1">
+  <attribute value="1" type="giBoolean" name="includeGlobal"/>
+  <attribute value="" type="giString" name="includePath"/>
+  <collection name="modelFiles">
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="BJT" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="DIODE" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="DIODE_18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FF" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FF_N25" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FF_P25" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FF_n105" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FF_n105_hvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FF_n105_lvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FF_n18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FF_p105" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FF_p105_hvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FF_p105_lvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FF_p18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FS" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FS_N25" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FS_P25" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FS_n105" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FS_n105_hvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FS_n105_lvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FS_n18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FS_p105" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FS_p105_hvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FS_p105_lvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="FS_p18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="F_BJT" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="F_DIO" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="F_DIO_18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="F_RES" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="MODEL_N25" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="MODEL_P25" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="MOS" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="N25" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="N25_nov_sub" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="P25" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="P25_nov_sub" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="RESISTOR" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SF" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SF_N25" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SF_P25" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SF_n105" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SF_n105_hvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SF_n105_lvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SF_n18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SF_p105" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SF_p105_hvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SF_p105_lvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SF_p18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SS" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SS_N25" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SS_P25" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SS_n105" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SS_n105_hvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SS_n105_lvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SS_n18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SS_p105" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SS_p105_hvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SS_p105_lvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="SS_p18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="S_BJT" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="S_DIO" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="S_DIO_18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="S_RES" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="TT" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="TT_N25" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="TT_P25" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="TT_n105" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="TT_n105_hvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="TT_n105_lvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="TT_n18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="TT_p105" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="TT_p105_hvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="TT_p105_lvt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="TT_p18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="T_BJT" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="T_DIO" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="T_DIO_18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="T_RES" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="defaults" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="model_n18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="model_p18" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="momcap" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="montecarlo_nomc" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="n105_hvt_model" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="n105_hvt_noacvsubckt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="n105_lvt_model" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="n105_lvt_noacvsubckt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="n105_model" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="n105_noacvsubckt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="n18_noacvsubckt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="noacvsubckt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="nov_sub" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="p105_hvt_model" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="p105_hvt_noacvsubckt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="p105_lvt_model" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="p105_lvt_noacvsubckt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="p105_model" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="p105_noacvsubckt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="p18_noacvsubckt" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="shared_nomc" type="giString" name="section"/>
+   </object>
+   <object type="saModelFile" name="modelFiles" version="1">
+    <attribute value="1" type="giBoolean" name="enabled"/>
+    <attribute value="/home/itsupport/SAED32nm_PDK_04152002/hspice/saed32nm.lib" type="giString" name="filename"/>
+    <attribute value="skew_noskew" type="giString" name="section"/>
+   </object>
+  </collection>
+  <collection name="modelGroupDefs"/>
+  <collection name="modelGroups"/>
+ </object>
+</file-format>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Sat Aug 12 21:36:07 2023-->
+<file-format name="stateData" version="1.0">
+ <attribute value="" name="description" type="giString"/>
+ <attribute value="bitcell_6t/test/schematic" name="design" type="dmCellView"/>
+ <attribute value="1" name="enabled" type="giBoolean"/>
+ <attribute value="default" name="name" type="giString"/>
+ <attribute value="HSPICE" name="simulator" type="giString"/>
+ <comment></comment>
+ <resultsDir>~/simulation</resultsDir>
+ <integration version="1"/>
+</file-format>
